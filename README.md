@@ -11,4 +11,4 @@ Postgresql is serving as Database of web-page.
 Nodejs controls backend part of web-side and react controls frontend side of web-page. 
 The code was written by Clarusway's Developers and architecture will be created by Clarusway's AWS & DevOps Team.
 
-https://github.com/clarusway/clarusway-devops-8-21/raw/main/projects/207-Ansible-publish-website-postgresql-nodejs-react/ansible.png
+![image](https://user-images.githubusercontent.com/81579618/139577429-b192baba-94e3-4e79-97f7-74e32722090a.png)
